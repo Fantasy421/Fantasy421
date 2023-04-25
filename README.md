@@ -2,9 +2,7 @@
 
 ### Hi there 👋
 
-<!--
-
 
 - 🌱 I’m currently learning Android
 - 📫 How to reach me: 421791975@qq.com
--->
+
